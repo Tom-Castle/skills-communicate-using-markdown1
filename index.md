@@ -1,5 +1,2 @@
-# header test 
-### header test
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-
-testing 1 and 3 hashtag headers
